@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-19T12:18:33Z" name="Default suite" finished-at="2018-10-19T12:18:33Z" duration-ms="64">
+    <groups>
+    </groups>
+    <test started-at="2018-10-19T12:18:33Z" name="Default test" finished-at="2018-10-19T12:18:33Z" duration-ms="64">
+      <class name="com.w2a.rough.HashTableTest">
+        <test-method signature="testFun(java.util.Hashtable)[pri:0, instance:com.w2a.rough.HashTableTest@1f97cf0d]" started-at="2018-10-19T12:18:33Z" name="testFun" data-provider="getData" finished-at="2018-10-19T12:18:33Z" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{head3=13, head2=12, head1=11}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFun -->
+        <test-method signature="testFun(java.util.Hashtable)[pri:0, instance:com.w2a.rough.HashTableTest@1f97cf0d]" started-at="2018-10-19T12:18:33Z" name="testFun" data-provider="getData" finished-at="2018-10-19T12:18:33Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{head3=23, head2=22, head1=21}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFun -->
+        <test-method signature="testFun(java.util.Hashtable)[pri:0, instance:com.w2a.rough.HashTableTest@1f97cf0d]" started-at="2018-10-19T12:18:33Z" name="testFun" data-provider="getData" finished-at="2018-10-19T12:18:33Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{head3=33, head2=32, head1=31}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFun -->
+      </class> <!-- com.w2a.rough.HashTableTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
